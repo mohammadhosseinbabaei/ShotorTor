@@ -10,9 +10,7 @@ import com.example.moham.shotortor.Base.SingleFragmentActivity;
 public class HomeActivity extends SingleFragmentActivity {
 
     public static Intent newIntent(Context context) {
-        Intent intent = new Intent(context, HomeActivity.class);
-
-        return intent;
+        return new Intent(context, HomeActivity.class);
     }
 
     @Override

@@ -2,7 +2,6 @@ package com.example.moham.shotortor.Base;
 
 import android.os.Bundle;
 
-
 import com.example.moham.shotortor.HomePage.R;
 
 import androidx.appcompat.app.AppCompatActivity;
